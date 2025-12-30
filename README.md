@@ -41,7 +41,6 @@ The system uses past fuel price data to understand how price, cost, and competit
 
 
   # Install dependencies
-
 pip install -r requirements.txt
 
 
@@ -75,6 +74,7 @@ http://127.0.0.1:8000/docs
 
 The output values are expected values, not exact future results.
 This system is meant to support pricing decisions using data.
+
 
 
 
